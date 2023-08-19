@@ -13,7 +13,7 @@ function Carregar(){
     }else if (hora >= 12 && hora < 18){
         msg.innerHTML += "Boa Tarde!"
         img.src = "fototarde.png"
-        document.body.style.background = "#ffc8c3"
+        document.body.style.background = "#caa4dc"
     }else{
         msg.innerHTML += "Boa Noite!"
         img.src = "fotonoite.png"
