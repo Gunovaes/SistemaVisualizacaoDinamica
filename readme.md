@@ -1,6 +1,6 @@
 ## Como Utilizar
 
-1. **Acesso ao Site**: Para experimentar o sistema, basta acessar o arquivo html do projeto por meio de qualquer navegador web.
+1. **Acesso ao Site**: Para experimentar o sistema, basta acessar o arquivo html do projeto por meio de qualquer navegador web; ps: como o site não está publicado é necessário fork do arquivo html e de seus componentes (css e js) para vizualização do mesmo.
 
 2. **Visualização Dinâmica**: Assim que você entrar no site, a página inicial exibirá a saudação apropriada ao horário do dia ("Bom dia", "Boa tarde" ou "Boa noite").
 
