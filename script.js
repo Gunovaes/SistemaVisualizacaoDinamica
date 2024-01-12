@@ -4,7 +4,7 @@ function Carregar(){
     var data = new Date()
     var hora = data.getHours()
     var minutos = data.getMinutes()
-    msg.innerHTML = `Agora são exatamente ${hora} horas e ${minutos} minutos, `
+    msg.innerHTML = `Agora são exatamente ${hora}:${minutos}, `
 
     if (hora >= 0 && hora <= 12){
         msg.innerHTML += "Bom Dia!"
